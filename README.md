@@ -1,4 +1,4 @@
-# cordova-app
+# vue@2.X版本 + cordova demo
 
 > A Vue.js project
 
